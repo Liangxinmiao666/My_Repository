@@ -1,0 +1,35 @@
+﻿  Stack.cpp
+E:\VS\Stack_CPP\Stack.cpp(4,6): error C2182: “StackInit”: 非法使用“void”类型
+E:\VS\Stack_CPP\Stack.cpp(4,16): error C2065: “ST”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(4,20): error C2065: “ps”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(5,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\VS\Stack_CPP\Stack.cpp(5,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\VS\Stack_CPP\Stack.cpp(12,6): error C2182: “StackDestory”: 非法使用“void”类型
+E:\VS\Stack_CPP\Stack.cpp(12,19): error C2065: “ST”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(12,23): error C2065: “ps”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(13,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\VS\Stack_CPP\Stack.cpp(13,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\VS\Stack_CPP\Stack.cpp(20,6): error C2182: “StackPush”: 非法使用“void”类型
+E:\VS\Stack_CPP\Stack.cpp(20,16): error C2065: “ST”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(20,20): error C2065: “ps”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(20,24): error C2065: “STDataType”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(20,35): error C2146: 语法错误: 缺少“)”(在标识符“x”的前面)
+E:\VS\Stack_CPP\Stack.cpp(21,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\VS\Stack_CPP\Stack.cpp(21,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\VS\Stack_CPP\Stack.cpp(41,6): error C2182: “StackPop”: 非法使用“void”类型
+E:\VS\Stack_CPP\Stack.cpp(41,15): error C2065: “ST”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(41,19): error C2065: “ps”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(42,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\VS\Stack_CPP\Stack.cpp(42,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\VS\Stack_CPP\Stack.cpp(48,17): error C2065: “ST”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(48,21): error C2065: “ps”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(49,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\VS\Stack_CPP\Stack.cpp(49,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\VS\Stack_CPP\Stack.cpp(63,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\VS\Stack_CPP\Stack.cpp(63,12): error C2146: 语法错误: 缺少“;”(在标识符“StackTop”的前面)
+E:\VS\Stack_CPP\Stack.cpp(64,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\VS\Stack_CPP\Stack.cpp(64,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\VS\Stack_CPP\Stack.cpp(72,15): error C2065: “ST”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(72,19): error C2065: “ps”: 未声明的标识符
+E:\VS\Stack_CPP\Stack.cpp(73,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\VS\Stack_CPP\Stack.cpp(73,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
