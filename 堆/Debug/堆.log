@@ -1,0 +1,6 @@
+﻿  Heap.c
+  Test.c
+E:\VS\堆\Test.c(157,12): warning C4013: “time”未定义；假设外部返回 int
+E:\VS\堆\Test.c(158,23): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  堆.vcxproj -> E:\VS\堆\Debug\堆.exe
