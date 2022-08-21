@@ -1,0 +1,7 @@
+﻿  test.cpp
+E:\VS\string\string.h(317,4): warning C4018: “<=”: 有符号/无符号不匹配
+E:\VS\string\string.h(338,10): warning C4018: “>”: 有符号/无符号不匹配
+E:\VS\string\string.h(463,33): error C2146: 语法错误: 缺少“)”(在标识符“pos”的前面)
+E:\VS\string\string.h(463,1): error C2661: “strstr”: 没有重载函数接受 1 个参数
+E:\VS\string\string.h(463,33): error C2146: 语法错误: 缺少“;”(在标识符“pos”的前面)
+E:\VS\string\string.h(463,1): error C2059: 语法错误:“)”
