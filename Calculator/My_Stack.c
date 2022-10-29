@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-#include "Stack.h"
+#include "My_Stack.h"
 
 void StackInit(ST* ps)
 {
@@ -41,7 +41,7 @@ void StackPush(ST* ps, STDataType x)
 void StackPop(ST* ps)
 {
 	assert(ps);
-	assert(ps->capacity > 0);
+	assert(ps->top > 0);
 	--ps->top;
 }
 
@@ -63,7 +63,7 @@ bool StackEmpty(ST* ps)
 STDataType StackTop(ST* ps)
 {
 	assert(ps);
-	assert(ps->capacity > 0);
+	assert(ps->top > 0);
 
 	return ps->a[ps->top - 1];
 }
