@@ -152,9 +152,9 @@ namespace miao {
 		Greater<int> GreaterCom;
 		cout << GreaterCom(1, 2) << endl;*/
 
-		//Priority_Queue<int> pq;
+		Priority_Queue<int> pq;
 		//Priority_Queue<int, vector<int>, Greater<int>> pq;
-		Priority_Queue<int, vector<int>, bool(*)(int, int)> pq(ComIntLess);
+		//Priority_Queue<int, vector<int>, bool(*)(int, int)> pq(ComIntLess);
 		pq.push(2);
 		pq.push(5);
 		pq.push(1);

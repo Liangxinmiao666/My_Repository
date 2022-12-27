@@ -174,7 +174,7 @@ int main()
 	//miao::test_stack();
 	//miao::test_queue();
 	//test_queue();
-	//miao::test_priority_queue();
+	miao::test_Priority_Queue();
 	//test_priority_queue();
 	
 	//miao::test_Priority_Queue();
